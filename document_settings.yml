@@ -1,22 +1,17 @@
 document:
-  type: Linee guida
-  name: Regole Tecniche per XXXXX
-  short_name: Ll.gg. XXXXXX
+  type: Allegato alle linee guida
+  name: "Allegato 2: Formati di file e riversamento"
+  short_name: All.2 Formati file e riversamento
   author: walter-arrighetti
   contributors:
-    - Stefano Arbia
     - Walter Arrighetti
-    - Michele d'Amico
-    - Antonio Florio
-    - Stefano Ianniello
-    - Andrea Spallacci
   description: |
-    Linee Guida contenenti Regole Tecniche circa XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Allegato 2 delle LL.GG. sul documento informatico - Formati di file e Riversamento
   tags:
-    - tag1
-    - tag2
-    - tag3
-    - tag4
+    - container
+    - wrapper
+    - busta
+    - pacchetto di file
     - tag5
     - QSeal
-  origin: https://github.com/test-lg/NAME-OF-REPOSITORY/
+  origin: https://github.com/test-lg/lg_doc-informatico_A.2/
